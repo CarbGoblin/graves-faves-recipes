@@ -22,3 +22,10 @@ h1 {
     height: auto;
     width: 500px;
  }
+ box {
+   padding:100px;
+   align-items: center;
+   margin: 100px;
+   text-align: center;
+
+ }
